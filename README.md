@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Let me see
+
+I wanna be a guru in front-end programming
